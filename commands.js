@@ -90,7 +90,7 @@ aCommands = {
 	],
 	"Showdown":[
 		["i", "images/manrich.png"],
-		["t", "You slept well and feel calm. You know you generated a heavy loss with your short positions. You publicly announce you will no longer be shorting shares."],
+		["t", "You slept well and feel calm. You know you generated a heavy loss with your short positions. You publicly announce you will no longer be publishing your research reports about short-selling."],
 		["t", "You review the past couple of days. Influential CEOs of electric car companies have publicly sided with WSB. Shouldn't have shorted their company, you think to yourself."],
 		["t", "Trading limitations are still in place for the ordinary investors. Suits them well, you think. They shouldn't organise themselves and do such trades. Bad for your business."],
 		["t", "You call up some of your Wall Street friends. Many made billions out of the whole frenzy. Especially your friends that bought trading information from those brokers, thereby being able to anticipate market movements, i.e. share price directions. You congratulate them."],
