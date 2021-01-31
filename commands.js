@@ -15,15 +15,15 @@ aCommands = {
 		["t", "It's 2019 and people come to you and your Hedge Fund to invest their money. You need to find things to invest in, generate a nice profit, keep some of it and hand the rest back to your investors. That is your job."],
 		["t", "You send your interns to a GameStop store to buy a present for your son. They return and tell you how empty and outdated the store looked. You are intrigued and do some research on the company."],
 		["i", "images/inspector.png"],
-		["t", "This company is in horrible shape, you find. It's a brick-and-mortar store in a world that increasinly buys its stuff online. And it's share price suggests the company is worth about $1 billion. This is insane. You are sure it's the next RadioShack and will go under."],
+		["t", "This company is in horrible shape, you find. It's a brick-and-mortar store in a world that increasingly buys its stuff online. And it's share price suggests the company is worth about $1 billion. This is insane. You are sure it's the next RadioShack and will go under."],
 		["b", "You ask your interns to do a thorough financial analysis on GameStop.", "Do financial research on GameStop"],
 		["b", "You decide to do nothing and invest 100,000 Dollars in Tesla instead.", "Invest in Tesla"]
 	],
 	"Do financial research on GameStop": [
 		["i", "images/lol.png"],
 		["t", "Your guys find that the company is truly in bad shape. You all laugh. CEOs are coming and going, losses and debt are piling up, digital downloads are the future, foot traffic for GameSpot stores is falling."],
-		["t", "This it it, boys, you tell them. You are going to short GameStop. This is one of your speciality moves, after all. "],
-		["t", "You decide that Gamestop's current share price of §5 is overvaluing the business. There will be no turnaround. You go short. You borrow hundred of thousands of GameStop shares at $5. You borrow them from Pension Funds, among others. They have many shares and for a small fee are willing to lend them."],
+		["t", "This it it, boys, you tell them. You are going to short GameStop. This is one of your speciality moves, after all. Other hedge funds do currency trading or go long, you typically go short. "],
+		["t", "You decide that Gamestop's current share price of $5 is overvaluing the business. There will be no turnaround. You go short. You borrow hundred of thousands of GameStop shares at $5. You borrow them from Pension Funds, among others. They have many shares and for a small fee are willing to lend them."],
 		["t", "You agree that you will return the shares by 29 January 2021 at the latest. Today, you immediately sell the shares on for $5 and will buy them back once they have fallen below $5, thereby making a nice profit. This is what you do best, after all: shorting."],
 		["b", "Only tell your interns about it and walk the dog.", "Interns"],
         ["b", "Publish a research report to let the world know that you shorted GameStop. Hopefully this will lead to people selling shares, thereby making the price fall.", "Research"]
