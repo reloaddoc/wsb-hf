@@ -56,13 +56,13 @@ aCommands = {
 		["t", "Everything is going well for you. GameStop tried to sell itself to save it, but no one wants to buy it. Haha, this is going fantastic. "],
 		["i", "images/dogfood.png"],
 		["t", "Then, out of nowhere, an investor named Ryan Cohen invests in GameStop. He successfully built an online pet-food retailer and many people pin their hopes on him to transform GameStop. You spill your coffee and laugh. A pet-food-style transformation for GameStop? This is getting better and better."],
-        ["b", "You give interviews and tell newspapers you remain short on GameStop.", "WSB2"],
+       		["b", "You give interviews and tell newspapers you remain short on GameStop.", "WSB2"],
 		["b", "You get nervous after all and close your short positions", "Interns"]
     ],	
 	"WSB2":[
 		["i", "images/bird.png"],
 		["t", "The situation is getting slightly worrying. There is a group on Reddit called Wallstreetbets and they are so freaking bullish on GameStop, they are buying up shares and thus driving up the price. This is madness, you think to yourself."],
-		["t", "GameStop shares are at $10 now. This is bad. Not only do you need to pay small fees to the Pension Fund for borring the shares, these fees are also going up when the shares unexpectedly go up."],
+		["t", "GameStop shares are at $10 now. This is bad. Not only do you need to pay small fees to the Pension Fund or your broker for borrowing the shares, these fees are also going up when the shares unexpectedly go up. This is because the price gap widens, thereby creating more risk for the brokers, for instance."],
 		["t", "This is insane. WSB people seem to think a fair share price would be somewhere around $30 to $60, given a potential digital transformation of the company."],
 		["t", "You know that the more GameStop shares rise, the higher your loss will be. You need to do something."],
 		["b", "You publish another report slamming GameStop's future prospects.", "Melvin"],
